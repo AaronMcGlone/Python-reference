@@ -121,3 +121,7 @@ Input : string = 'GeeksforGeeks is a computer Science portal for Geeks'
          #Lowercase - 41
          #spaces - 7
          #gEEKSFORGEEKS IS A COMPUTER sCIENCE PORTAL FOR gEEKS
+
+
+string = 'GEEKSFORGEEKS'
+print(string.lower())
