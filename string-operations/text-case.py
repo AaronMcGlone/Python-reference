@@ -101,18 +101,18 @@ Syntax: string.upper()
 #Returns: It converts the given string in into uppercase and returns the string.
 
 #In this code use upper() method to convert the strings to uppercase. Firstly take lowercase string”geeksforgeeks” that is converted to uppercase() with the help of string.upper()
-#  function. Same we will try with the string that contains both upper and lower case “My name is ayush” then function will convert this to lower case.
+#  function. Same we will try with the string that contains both upper and lower case “My name is aaron” then function will convert this to lower case.
 
 
 # checking for uppercase characters 
 string = 'geeksforgeeks' #Define a string that contains only lowercase() 
 print(string.upper()) #Convert into uppercase 
   
-string = 'My name is ayush' #Define a string that contains only lower case 
+string = 'My name is aaron' #Define a string that contains only lower case 
 print(string.upper()) #convert into uppercase. 
 #Output:
 #GEEKSFORGEEKS
-#MY NAME IS AYUSH
+#MY NAME IS AARON
 #Count uppercase, lowercase letters, and spaces
 #Given a string, the task is to write a Python Program to count a number of uppercase letters, lowercase letters, and spaces in a string and toggle case the given string (convert lowercase to uppercase and vice versa).
 
